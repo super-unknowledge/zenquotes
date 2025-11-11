@@ -2,6 +2,7 @@
 A vibecoded Django web app that randomly displays a quote from a sqlite db.
 
 ✅ Steps to Run the Django App Locally
+
 📦 1. Install Dependencies
 pip install -r requirements.txt
 ⚠️ If you're missing pip, install it or use Python 3.10+ which comes bundled.
